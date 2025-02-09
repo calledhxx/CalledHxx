@@ -5,3 +5,7 @@
   ###### Hxx的泡泡浴 🫧 |  Mione程式語言 🖥️
   
 </div>
+
+```c
+#define HXX_25
+```

@@ -36,16 +36,46 @@
 |<h1>我的主要專案</h1>|
 
 <br>
-  
+
 <table>
   <tr>
     <td width="50%">
       <div align="center">
-        <a href = "https://hxx.lol"><img src="hxxlol.jpg" width="500px"></a>
+        <a href = "https://github.com/calledhxx/Mione"><img src="mione.jpg" width="500px"></a>
       </div>
     </td>
     <td width="50%">
-      <h1><a href = "https://github.com/calledhxx/hxx.lol">Hxx.lol</a> — 我的Weblog</h1>
+      <h1>Mione — 新型程式語言</h1>
+      <p><del>因為不想學其他程式語言，<br>所以想自己做一個。</del></p>
+      <p>主要是希望能做出個小白都能懂得的程式語言<br><del>(望向隔壁那座Python大廈，憋著眼淚說出)</del></p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%">
+      <div align="center">
+        <a href = "https://github.com/calledhxx/Mione"><img src="markpan.jpg" width="500px"></a>
+      </div>
+    </td>
+    <td width="50%">
+      <h1>MarkPan — 新標記語言</h1>
+      <p>想要做出個能包住metadata的標記語言，<br>但又想增加挑戰力，設計出獨特<del>又機車</del>的語法。</p>
+      <p>我相信我之後再寫部落格一定會用到它的。</p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%">
+      <div align="center">
+        <a href = "https://github.com/calledhxx/hxx.lol"><img src="hxxlol.jpg" width="500px"></a>
+      </div>
+    </td>
+    <td width="50%">
+      <h1><a href = "https://hxx.lol">Hxx.lol</a> — 我的 Weblog</h1>
       <p>這是我在夢中想出來的網站，<br>覺得很有趣，所以就在現實中做出來了。</p>
       <p>就當作是一個花俏的作品吧，<br>之後我應該會做真正的Weblog出來。</p>
     </td>

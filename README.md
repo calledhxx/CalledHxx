@@ -56,7 +56,7 @@
   <tr>
     <td width="50%">
       <div align="center">
-        <a href = "https://github.com/calledhxx/Mione"><img src="markpan.jpg" width="500px"></a>
+        <a href = "https://github.com/calledhxx/MarkPan"><img src="markpan.jpg" width="500px"></a>
       </div>
     </td>
     <td width="50%">
@@ -84,3 +84,14 @@
   
 </div>
 
+<br>
+
+---
+
+<br>
+
+<div align="center">
+  
+  ### [✉️Mail -> me](mailto:me@hxx.lol&subject=GitHub)
+  Copyright © 2026 CalledHxx. All Rights Reserved.
+</div>

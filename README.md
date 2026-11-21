@@ -1,15 +1,13 @@
 <div align="center">
+  <img src="安妮亞喜歡這個.png" width="200px">
   
-  # [Hxx.lol 🦄](https://hxx.lol)  |  [Mione  <img src="https://raw.githubusercontent.com/calledhxx/Mione/26e7d1561c7421837d1b7ff8e1e1545f3f12eaae/Mione.svg" width="40"/>](https://github.com/calledhxx/Mione) 
+   👉 [**Hxx.lol**](https://hxx.lol) 👈
 
-  ###### Hxx的方塊 🫧 |  Mione程式語言 🖥️
   
 </div>
 
-```c
-#define HXX_25
-```
-
+---
+我的主要專案如下：
 
 <div align="center">
   
